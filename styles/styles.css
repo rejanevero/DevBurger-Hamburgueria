@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #f6f7f8;
+}
+
+/* Teste de criação de classe para estilizar os itens no index.html */
+/* Inclui 4 hambúrgueres e 2 refrigerantes */
+
+
+@layer components {
+    .product_card{
+        @apply flex gap-2 w-full;
+    }
+}
