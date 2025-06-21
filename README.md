@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/cab5f315-0cdf-4bd6-a939-5bc0495eba0d)
 # Cardápio para Hamburgueria
 
 Este projeto é um sistema de cardápio digital para hamburguerias, que permite aos clientes visualizarem os produtos, adicioná-los ao carrinho, verificar e gerenciar o carrinho de compras, além de enviar pedidos diretamente para o WhatsApp da hamburgueria.
